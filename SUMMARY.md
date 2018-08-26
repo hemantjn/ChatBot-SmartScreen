@@ -8,4 +8,5 @@
 * [/drop](drop.md)
 * [/youtube](youtube.md)
 * [/rc](rc.md)
+* [/jj](jj.md)
 
