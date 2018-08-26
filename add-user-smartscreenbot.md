@@ -6,7 +6,7 @@ description: Add user 'SmartScreenBot'
 
 ## Login into a _Chat Messenger_ platform say _Telegram_
 
-
+![](.gitbook/assets/tg.png)
 
 ## Add user _'SmartScreenBot'_
 
