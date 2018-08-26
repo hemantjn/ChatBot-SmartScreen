@@ -7,4 +7,5 @@
 * [/status](untitled.md)
 * [/drop](drop.md)
 * [/youtube](youtube.md)
+* [/rc](rc.md)
 
