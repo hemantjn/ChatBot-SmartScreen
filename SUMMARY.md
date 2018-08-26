@@ -10,5 +10,5 @@
 * [/rc](rc.md)
 * [/jj](jj.md)
 * [/view](view.md)
-* [Untitled](untitled-1.md)
+* [/post](untitled-1.md)
 
