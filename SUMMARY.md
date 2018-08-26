@@ -5,4 +5,6 @@
 * [SmartScreen Settings & Console](smartscreen-settings-and-console.md)
 * [/pin](use-pin-to-pair-with-smartscreen-target_device.md)
 * [/status](untitled.md)
+* [/drop](drop.md)
+* [/youtube](youtube.md)
 
