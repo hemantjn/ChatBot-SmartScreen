@@ -11,4 +11,5 @@
 * [/jj](jj.md)
 * [/view](view.md)
 * [/post](untitled-1.md)
+* [/sticker](sticker.md)
 
