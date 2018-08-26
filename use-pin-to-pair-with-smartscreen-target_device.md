@@ -1,8 +1,8 @@
 ---
-description: Use '/pin' to pair with SmartScreen target_device
+description: Pair with SmartScreen target_device
 ---
 
-# '/pin'
+# /pin
 
 ## Use _'/pin'_ to pair with SmartScreen _target\_device_
 
