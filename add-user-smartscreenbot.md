@@ -1,8 +1,8 @@
 ---
-description: Add user 'SmartScreenBot'
+description: Add user 'SmartScreenBot' in a chat messenger platform
 ---
 
-# Add User 'SmartScreenBot'
+# Add User 'SmartScreenBot' in a Chat Messenger platform
 
 ## Login into a _Chat Messenger_ platform say _Telegram_
 
